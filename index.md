@@ -4,7 +4,7 @@
 
 ---
 
-**This is a blod text** 
+**This is a bold text** 
 
 *This is an italic text*
 
