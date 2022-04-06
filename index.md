@@ -1,12 +1,10 @@
-# Heading 1 
-## Heading 2
-### Heading 3 
+# Index markdown file  
+## Basic markdown syntax 
 
 ---
-
-**This is a bold text** 
-
 *This is an italic text*
+
+**This is a bold text**
 
 ---
 
