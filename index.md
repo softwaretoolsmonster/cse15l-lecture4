@@ -37,5 +37,3 @@ Here is my favorite programming languages:
 print('Hello World')
 print('CSE 15L is so much fun')
 ```
-
-Hello from CSE 15L! 
